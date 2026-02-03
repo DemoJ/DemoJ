@@ -1,6 +1,7 @@
 ### 👋 我是DIYUN  
 - 🔭 当前专注领域：AI产品设计/AI编程  
-- 🌱 正在学习：Python + Vue  
+- 🌱 正在学习：Python + Vue
+- 💬 微信公众号：少数人杂谈
 - 📫 联系我：diyun@diyun.site
 - 🚀 个人网站：[狄云的所思所想](https://diyun.site)
 
